@@ -2,10 +2,6 @@
 
 using namespace std;
 
-char right(char pos) {
-
-}
-
 int main() {
     string s;
     char pos = '5';
